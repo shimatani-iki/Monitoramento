@@ -1,0 +1,18 @@
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/shimatani-iki/Monitoramento.git",
+        "options": {
+            "ssh2": {
+                "username": "shimatani-iki",
+                "pubkey_file": "/home/username/.ssh/id_rsa.pub",
+                "privkey_file": "/home/username/.ssh/id_rsa"
+            }
+        }
+    },
+    
+
+"require": {
+    "php": ">=5.4.3",
+    "Monitoramento": "master"
+}
