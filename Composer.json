@@ -14,5 +14,5 @@
 
 "require": {
     "php": ">=5.4.3",
-    "Monitoramento": "master"
+    "Monitoramento": "dev-master"
 }
